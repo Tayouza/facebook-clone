@@ -18,4 +18,8 @@
 
 ## SCREENSHOT
 
-<img src="imagens/page.png" title="screenshot-facebook-clone" alt="screenshot-facebook-clone">
+<div style="text-align: center">
+    <img src="imagens/page.png" title="screenshot-facebook-clone" alt="screenshot-facebook-clone">
+    <img src="imagens/responsivo1.png" title="screenshot-facebook-clone" width="400px" alt="screenshot-facebook-clone">
+    <img src="imagens/responsivo2.png" title="screenshot-facebook-clone" width="300px" alt="screenshot-facebook-clone">
+</div>
