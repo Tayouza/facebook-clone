@@ -1,6 +1,6 @@
 # Facebook-clone
 
-## Meu primeiro projeto em HTML e CSS, após algumas aulas de HTML e CSS me desafiei a contruir um clone dda interface do Facebook e tive total êxito.
+## Meu primeiro projeto em HTML e CSS, após algumas aulas de HTML e CSS me desafiei a construir um clone da interface do Facebook e tive total êxito.
 
 ================== <br>
 <img src="https://img.shields.io/static/v1?label=Clone&message=Facebook&color=4867aa&style=for-the-badge&logo=ghost"/>
